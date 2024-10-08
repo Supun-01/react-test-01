@@ -4,7 +4,7 @@ import { FaLinkedin } from "react-icons/fa";
 
 function NavBar() {
     return (
-        <div className="border-t border-b mb-10 flex justify-between md:text-2xl lg:text-2xl py-6 px-5">
+        <div className="border-t border-b text-white mb-10 flex justify-between md:text-2xl lg:text-2xl py-6 px-5">
 
             <div>
                 <ul className="flex justify-between">
