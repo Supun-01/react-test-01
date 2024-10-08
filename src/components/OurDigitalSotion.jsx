@@ -3,7 +3,7 @@ import { AboutOption } from "../assets/text-contents/myText";
 
 function OurDigitalSolution() {
     return (
-        <div className="text-white border-t border-b py-10 flex flex-wrap text-center mb-10">
+        <div className="text-white py-10 flex flex-wrap text-center mb-10">
 
             <div className="lg:w-1/2 pb-5">
                 <div className="flex flex-wrap items-center justify-center">

@@ -1,6 +1,6 @@
 function HeroSection() {
     return (
-        <div className="border-t border-b text-white py-10 flex items-center justify-center mb-10">
+        <div className="text-white py-10 flex items-center justify-center mb-10">
             <div className="flex flex-col items-center text-center lg:w-1/4">
 
                 <h1 className="text-6xl tracking-tight pb-5">
